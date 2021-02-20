@@ -1,2 +1,2 @@
 # zjjcode
-this is a description
+this is a zjjcode repository for zjjj-sys
